@@ -3,6 +3,7 @@
 
 
 == Journal
+. * R. Yan*, X. Duan, Z. Shi, Y. Zhong, J. R. Marden, F. Bullo. Policy Evaluation and Seeking for Multi-Agent Reinforcement Learning via Best Response. IEEE Transactions on Automatic Control (regular paper), To appear, 2021. [https://arxiv.org/abs/2006.09585].
 . *R. Yan*, Z. Shi and Y. Zhong. Cooperative Strategies for Two-Evader-One-Pursuer Reach-Avoid Differential Games. International Journal of Systems Science, To appear, 2021. [https://doi.org/10.1080/00207721.2021.1872116].
 . *R. Yan*, Z. Shi and Y. Zhong. Task Assignment for Multiplayer Reach-Avoid Games in Convex Domains via Analytical Barriers. IEEE Transactions on Robotics (regular paper), 36: 107-124, 2020. [https://doi.org/10.1109/TRO.2019.2935345].
 . *R. Yan*, Z. Shi and Y. Zhong. Guarding a Subspace in High-Dimensional Space with Two Defenders and One Attacker. IEEE Transactions on Cybernetics (regular paper), To appear, 2020. [https://arxiv.org/abs/1904.01113v3].
@@ -22,5 +23,4 @@
 
 == Preprints
 . *R. Yan*, X. Duan, Z. Shi, Y. Zhong, F. Bullo. Maximum-Matching Capture Strategies for 3D Heterogeneous Multiplayer Reach-Avoid Games. [https://arxiv.org/abs/1909.11881].
-. * R. Yan*, X. Duan, Z. Shi, Y. Zhong, J. R. Marden, F. Bullo. Policy Evaluation and Seeking for Multi-Agent Reinforcement Learning via Best Response. [https://arxiv.org/abs/2006.09585].
 
