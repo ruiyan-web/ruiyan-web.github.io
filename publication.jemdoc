@@ -16,7 +16,7 @@
 
 
 == Conference
-. H. Lai, *R. Yan*, W. Zhang, Z. Shi, Y. Zhong. Reach-Avoid Differential Games via Finite-Time Heading Tracking. In IEEE Conference on Decision and Control, Accepted, 2021.
+. H. Lai, *R. Yan*, W. Zhang, Z. Shi, Y. Zhong. Reach-Avoid Differential Games via Finite-Time Heading Tracking. In IEEE Conference on Decision and Control, pp. 1656-1662, Austin, TX, USA, Dec. 2021. [https://doi.org/10.1109/CDC45484.2021.9683266].
 . R. Deng, *R. Yan*, W. Zhang, Z. Shi, Y. Zhong. Receding Horizon Defense Strategy for Reach-Avoid Games with Uncertainties via Pairwise Outcomes. In 40th Chinese Control Conference (CCC), pp. 5401-5406, Shanghai, China, Oct. 2021. [https://doi.org/10.23919/CCC52363.2021.9550127].
 . H. Lai, W. Liang, *R. Yan*, Z. Shi, Y. Zhong. LiDAR-Inertial based Localization and Perception for Indoor Pursuit-Evasion Differential Games. In 40th Chinese Control Conference (CCC), pp. 7468-7473, Shanghai, China, Oct. 2021. [https://doi.org/10.23919/CCC52363.2021.9549330].
 . *R. Yan*, Z. Shi and Y. Zhong. Construction of the Barrier for Reach-Avoid Differential Games in Three-Dimensional Space with Four Equal-Speed Players. In IEEE Conference on Decision and Control, pp. 4067-4072, Nice, France, Dec. 2019. [https://doi.org/10.1109/CDC40024.2019.9029495].
@@ -27,6 +27,7 @@
 
 == Preprints
 . *R. Yan*, G. Santos, G. Norman, D. Parker, M. Kwiatkowska. Strategy Synthesis for Zero-sum Neuro-symbolic Concurrent Stochastic Games, 2022. [https://arxiv.org/abs/2202.06255].
+. *R. Yan*, W. Zhang, R. Deng, X. Duan, Z. Shi, Y. Zhong. Evaluation and Learning in Two-Player Symmetric Games via Best and Better Responses, 2022. [https://arxiv.org/pdf/2204.12791].
 . X. Duan, Y. Savas, *R. Yan*, Z. Xu, U. Topcu. On the Detection of Markov Decision Processes, 2021. [https://arxiv.org/abs/2112.12338].
 . *R. Yan*, R. Deng, H. Lai, W. Zhang, Z. Shi, and Y. Zhong. Multiplayer Homicidal Chauffeur Reach-Avoid Games via Guaranteed Winning Strategies, 2021. [https://arxiv.org/abs/2107.04709].
 . X. Duan, Z. Xu, *R. Yan*, U. Topcu. Privacy-Utility Trade-Offs Against Limited Adversaries, 2021. [https://arxiv.org/abs/2106.14643].
