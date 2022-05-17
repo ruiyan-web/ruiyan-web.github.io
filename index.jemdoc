@@ -17,6 +17,7 @@ Welcome to my personal website. I am a postdoctoral fellow (research associate) 
 Mechanical Engineering Department and the Center for Control, Dynamical Systems and Computation at the University of California, Santa Barbara from Feb 2019 to Feb 2020, supervised by [http://motion.me.ucsb.edu Prof. Francesco Bullo]. My current research focuses on stochastic games, probabilistic verification and synthesis, reach-avoid differential games and multi-agent reinforcement learning. The applications include neural-symbolic systems, multi-robot cooperation and competition, and multi-vehicle automated driving.
 
 == Updates
+- 2022 May: Our paper "Finite-horizon Equilibria for Neuro-symbolic Concurrent Stochastic Games" has been accepted at UAI 2022!
 - 2022 Jan.: Our paper ''Matching-Based Capture Strategies for 3D Heterogeneous Multiplayer Reach-Avoid Differential Games'' has been accepted for publication in Automatica as a regular paper with coauthors [https://xmduan.github.io Xiaoming Duan], Prof. Zongying Shi, Prof. Yisheng Zhong, and [http://motion.me.ucsb.edu Prof. Francesco Bullo].\n
 - 2021 Jul.: Congratulations to [https://haowenlai.github.io Haowen] for his work on "Reach-Avoid Differential Games via Finite-Time Heading Tracking" accepted to IEEE CDC 2021.\n
 - 2021 Jun.: I am honored to receive outstanding PhD thesis award from Tsinghua University.\n
