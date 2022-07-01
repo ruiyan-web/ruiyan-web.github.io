@@ -3,6 +3,7 @@
 
 
 == Journal/CS Conference
+. M. Kwiatkowska, G. Norman, D. Parker, G. Santos, *R. Yan*. Probabilistic Model Checking for Strategic Equilibria-based Decision Making: Advances and Challenges. In 47th International Symposium on Mathematical Foundations of Computer Science (MFCS), 2022. (Accepted) [https://arxiv.org/abs/2206.15148].
 . *R. Yan*, G. Santos, X. Duan, D. Parker, M. Kwiatkowska. Finite-horizon Equilibria for Neuro-symbolic Concurrent Stochastic Games. In 38th Conference on Uncertainty in Artificial Intelligence (UAI), 2022. (Accepted) [https://arxiv.org/abs/2205.07546].
 . *R. Yan*, X. Duan, Z. Shi, Y. Zhong, F. Bullo. Maximum-Matching Capture Strategies for 3D Heterogeneous Multiplayer Reach-Avoid Games. Automatica (*Full paper*), 140, 110-207, 2022. [https://doi.org/10.1016/j.automatica.2022.110207].
 . * R. Yan*, X. Duan, Z. Shi, Y. Zhong, J. R. Marden, F. Bullo. Policy Evaluation and Seeking for Multi-Agent Reinforcement Learning via Best Response. IEEE Transactions on Automatic Control (*Full paper*), 67(4), 1898-1913, 2022. [https://doi.org/10.1109/TAC.2021.3085171].
