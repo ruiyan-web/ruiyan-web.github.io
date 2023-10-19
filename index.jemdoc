@@ -17,6 +17,7 @@ Welcome to my personal website. I am a postdoctoral fellow (research associate) 
 Mechanical Engineering Department and the Center for Control, Dynamical Systems and Computation at the University of California, Santa Barbara from Feb 2019 to Feb 2020, supervised by [http://motion.me.ucsb.edu Prof. Francesco Bullo]. My current research focuses on stochastic games, probabilistic verification and synthesis, reach-avoid differential games and multi-agent reinforcement learning. The applications include neural-symbolic systems, multi-robot cooperation and competition, and multi-vehicle automated driving.
 
 == Updates
+- 2023 Oct.: Our paper "[https://arxiv.org/abs/2310.11566 Partially Observable Stochastic Games with Neural Perception Mechanisms]" is available on arXiv!
 - 2023 Aug.: Our paper "[https://www.sciencedirect.com/science/article/pii/S0020025523010447 Evaluation and Learning in Two-Player Symmetric Games via Best and Better Responses]" has been accepted for publication in Information Sciences!
 - 2023 June: Our paper "[http://arxiv.org/abs/2306.17639 Point-based Value Iteration for Neuro-Symbolic POMDPs]" is available on arXiv!
 - 2022 May: Our paper "Finite-horizon Equilibria for Neuro-symbolic Concurrent Stochastic Games" has been accepted at UAI 2022!
