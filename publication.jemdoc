@@ -3,7 +3,9 @@
 
 
 == Journal/CS Conference
+. *R. Yan*, R. Deng, H. Lai, W. Zhang, Z. Shi, and Y. Zhong. *Homicidal Chauffeur Reach-Avoid Games via Guaranteed Winning Strategies*. IEEE Transactions on Automatic Control (*Full paper*), 1-16, 2023. [https://doi.org/10.1109/TAC.2023.3329693].
 . *R. Yan*, W. Zhang, R. Deng, X. Duan, Z. Shi, Y. Zhong. *Evaluation and Learning in Two-Player Symmetric Games via Best and Better Responses*. Information Sciences, 119459, 2023. [https://www.sciencedirect.com/science/article/pii/S0020025523010447].
+. R. Deng, W. Zhang, *R. Yan*, Z. Shi, and Y. Zhong. *Multiple-Pursuer Single-Evader Reach-Avoid Games in Constant Flow Fields*. IEEE Transactions on Automatic Control, 1-7, 2023. [https://doi.org/10.1109/TAC.2023.3329537].
 . X. Duan, Z. Xu, *R. Yan*, U. Topcu. *Privacy-Utility Trade-Offs Against Limited Adversaries*. IEEE Transactions on Automatic Control, 1-8, 2023. [https://doi.org/10.1109/TAC.2023.3269360].
 . *R. Yan*, R. Deng, X. Duan, Z. Shi, Y. Zhong. *Multiplayer reach-avoid differential games with simple motions: A review*. Frontiers in Control Engineering, 3, 2023. [https://www.frontiersin.org/articles/10.3389/fcteg.2022.1093186].
 . M. Kwiatkowska, G. Norman, D. Parker, G. Santos, *R. Yan*. *Probabilistic Model Checking for Strategic Equilibria-based Decision Making: Advances and Challenges*. In 47th International Symposium on Mathematical Foundations of Computer Science (MFCS), 2022. (Accepted) [https://arxiv.org/abs/2206.15148].
@@ -35,4 +37,3 @@
 . *R. Yan*, G. Santos, G. Norman, D. Parker, M. Kwiatkowska. *Point-based Value Iteration for Neuro-Symbolic POMDPs*, 2023. [http://arxiv.org/abs/2306.17639].
 . *R. Yan*, G. Santos, G. Norman, D. Parker, M. Kwiatkowska. *Strategy Synthesis for Zero-sum Neuro-symbolic Concurrent Stochastic Games*, 2022. [https://arxiv.org/abs/2202.06255].
 . X. Duan, Y. Savas, *R. Yan*, Z. Xu, U. Topcu. *On the Detection of Markov Decision Processes*, 2021. [https://arxiv.org/abs/2112.12338].
-. *R. Yan*, R. Deng, H. Lai, W. Zhang, Z. Shi, and Y. Zhong. *Multiplayer Homicidal Chauffeur Reach-Avoid Games via Guaranteed Winning Strategies*, 2021. [https://arxiv.org/abs/2107.04709].
