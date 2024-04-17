@@ -17,6 +17,7 @@ Welcome to my personal website. I am a postdoctoral fellow (research associate) 
 Mechanical Engineering Department and the Center for Control, Dynamical Systems and Computation at the University of California, Santa Barbara from Feb 2019 to Feb 2020, supervised by [http://motion.me.ucsb.edu Prof. Francesco Bullo]. My current research focuses on stochastic games, probabilistic verification and synthesis, reach-avoid differential games and multi-agent reinforcement learning. The applications include neural-symbolic systems, multi-robot cooperation and competition, and multi-vehicle automated driving.
 
 == Updates
+- 2024 Apr.: Our paper "[http://arxiv.org/abs/2404.10679 HSVI-based Online Minimax Strategies for Partially Observable Stochastic Games with Neural Perception Mechanisms]" has been accepted in L4DC 2024! 
 - 2024 Mar.: Our paper "[https://arxiv.org/abs/2403.06202 Pursuit Winning Strategies for Reach-Avoid Games with Polygonal Obstacles]" is available on arXiv!
 - 2023 Nov.: Our paper "[https://arxiv.org/abs/2311.02389 Multiplayer Homicidal Chauffeur Reach-Avoid Games: A Pursuit Enclosure Function Approach]" is available on arXiv!
 - 2023 Nov.: Our paper "[https://doi.org/10.1109/TAC.2023.3329693 Homicidal Chauffeur Reach-Avoid Games via Guaranteed Winning Strategies]" has been accepted for publication in IEEE Transactions on Automatic Control as a regular paper!
