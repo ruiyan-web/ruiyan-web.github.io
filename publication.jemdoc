@@ -3,18 +3,19 @@
 
 
 == Journals/CS Conferences
-. *R. Yan*, R. Deng, H. Lai, W. Zhang, Z. Shi, Y. Zhong. *Homicidal Chauffeur Reach-Avoid Games via Guaranteed Winning Strategies*. IEEE Transactions on Automatic Control (*Full paper*), 69(4):2367-2382, 2024. [https://doi.org/10.1109/TAC.2023.3329693].
+. *R. Yan*, X. Duan, R. Zou, X. He, Z. Shi, F. Bullo. *Multiplayer Homicidal Chauffeur Reach-Avoid Games: A Pursuit Enclosure Function Approach*, Automatica (*Regular paper*), 2024. (To appear) [https://arxiv.org/abs/2311.02389].
+. *R. Yan*, R. Deng, H. Lai, W. Zhang, Z. Shi, Y. Zhong. *Homicidal Chauffeur Reach-Avoid Games via Guaranteed Winning Strategies*. IEEE Transactions on Automatic Control (*Regular paper*), 69(4):2367-2382, 2024. [https://doi.org/10.1109/TAC.2023.3329693].
 . *R. Yan*, W. Zhang, R. Deng, X. Duan, Z. Shi, Y. Zhong. *Evaluation and Learning in Two-Player Symmetric Games via Best and Better Responses*. Information Sciences, 119459, 2023. [https://www.sciencedirect.com/science/article/pii/S0020025523010447].
 . R. Deng, W. Zhang, *R. Yan*, Z. Shi, and Y. Zhong. *Multiple-Pursuer Single-Evader Reach-Avoid Games in Constant Flow Fields*. IEEE Transactions on Automatic Control, 69(3), 1789-1795, 2024. [https://doi.org/10.1109/TAC.2023.3329537].
 . X. Duan, Z. Xu, *R. Yan*, U. Topcu. *Privacy-Utility Trade-Offs Against Limited Adversaries*. IEEE Transactions on Automatic Control, 69(1), 519-526, 2024. [https://doi.org/10.1109/TAC.2023.3269360].
 . *R. Yan*, R. Deng, X. Duan, Z. Shi, Y. Zhong. *Multiplayer reach-avoid differential games with simple motions: A review*. Frontiers in Control Engineering, 3, 2023. [https://www.frontiersin.org/articles/10.3389/fcteg.2022.1093186].
 . M. Kwiatkowska, G. Norman, D. Parker, G. Santos, *R. Yan*. *Probabilistic Model Checking for Strategic Equilibria-based Decision Making: Advances and Challenges*. In 47th International Symposium on Mathematical Foundations of Computer Science (MFCS), 2022. (Accepted) [https://arxiv.org/abs/2206.15148].
 . *R. Yan*, G. Santos, X. Duan, D. Parker, M. Kwiatkowska. *Finite-horizon Equilibria for Neuro-symbolic Concurrent Stochastic Games*. In 38th Conference on Uncertainty in Artificial Intelligence (UAI), 2170-2180, 2022. [https://openreview.net/forum?id=ScIl8wLj9lc].
-. *R. Yan*, X. Duan, Z. Shi, Y. Zhong, F. Bullo. *Maximum-Matching Capture Strategies for 3D Heterogeneous Multiplayer Reach-Avoid Games*. Automatica (*Full paper*), 140, 110-207, 2022. [https://doi.org/10.1016/j.automatica.2022.110207].
-. * R. Yan*, X. Duan, Z. Shi, Y. Zhong, J. R. Marden, F. Bullo. *Policy Evaluation and Seeking for Multi-Agent Reinforcement Learning via Best Response*. IEEE Transactions on Automatic Control (*Full paper*), 67(4), 1898-1913, 2022. [https://doi.org/10.1109/TAC.2021.3085171].
+. *R. Yan*, X. Duan, Z. Shi, Y. Zhong, F. Bullo. *Maximum-Matching Capture Strategies for 3D Heterogeneous Multiplayer Reach-Avoid Games*. Automatica (*Regular paper*), 140, 110-207, 2022. [https://doi.org/10.1016/j.automatica.2022.110207].
+. * R. Yan*, X. Duan, Z. Shi, Y. Zhong, J. R. Marden, F. Bullo. *Policy Evaluation and Seeking for Multi-Agent Reinforcement Learning via Best Response*. IEEE Transactions on Automatic Control (*Regular paper*), 67(4), 1898-1913, 2022. [https://doi.org/10.1109/TAC.2021.3085171].
 . *R. Yan*, Z. Shi and Y. Zhong. *Optimal Strategies for the Lifeline Differential Game with Limited Lifetime*. International Journal of Control, 94(8), 2238-2251, 2021. [https://doi.org/10.1080/00207179.2019.1698770].
 . *R. Yan*, Z. Shi and Y. Zhong. *Cooperative Strategies for Two-Evader-One-Pursuer Reach-Avoid Differential Games*. International Journal of Systems Science, 52(9), 1894-1912, 2021. [https://doi.org/10.1080/00207721.2021.1872116].
-. *R. Yan*, Z. Shi and Y. Zhong. *Task Assignment for Multiplayer Reach-Avoid Games in Convex Domains via Analytical Barriers*. IEEE Transactions on Robotics (*Full paper*), 36: 107-124, 2020. [https://doi.org/10.1109/TRO.2019.2935345].
+. *R. Yan*, Z. Shi and Y. Zhong. *Task Assignment for Multiplayer Reach-Avoid Games in Convex Domains via Analytical Barriers*. IEEE Transactions on Robotics (*Regular paper*), 36: 107-124, 2020. [https://doi.org/10.1109/TRO.2019.2935345].
 . *R. Yan*, Z. Shi and Y. Zhong. *Guarding a Subspace in High-Dimensional Space with Two Defenders and One Attacker*. IEEE Transactions on Cybernetics, 52(5), 3998-4011, 2020. [https://doi.org/10.1109/TCYB.2020.3015031].
 . *R. Yan*, Z. Shi and Y. Zhong. *Reach-Avoid Games with Two Defenders and One Attacker: An Analytical Approach*. IEEE Transactions on Cybernetics, 49(3): 1035-1046, 2019. [https://doi.org/10.1109/TCYB.2018.2794769].
 . L. Qin, X. He, *R. Yan*, D. Zhou. *Active Fault-Tolerant Control for A Quadrotor with Sensor Faults*. Journal of Intelligent \& Robotic Systems, 88(2-4): 449-467, 2017. [https://doi.org/10.1007/s10846-017-0474-0].
@@ -39,5 +40,4 @@
 . *R. Yan*, G. Santos, G. Norman, D. Parker, M. Kwiatkowska. *Point-based Value Iteration for Neuro-Symbolic POMDPs*, 2023. [http://arxiv.org/abs/2306.17639].
 . *R. Yan*, G. Santos, G. Norman, D. Parker, M. Kwiatkowska. *Strategy Synthesis for Zero-sum Neuro-symbolic Concurrent Stochastic Games*, 2022. [https://arxiv.org/abs/2202.06255].
 . *R. Yan*, S. Mi, X. Duan, J. Chen, X. Ji. *Pursuit Winning Strategies for Reach-Avoid Games with Polygonal Obstacles*, 2024. [https://arxiv.org/abs/2403.06202].
-. *R. Yan*, X. Duan, R. Zou, X. He, Z. Shi, F. Bullo. *Multiplayer Homicidal Chauffeur Reach-Avoid Games: A Pursuit Enclosure Function Approach*, 2023. [https://arxiv.org/abs/2311.02389].
 . X. Duan, Y. Savas, *R. Yan*, Z. Xu, U. Topcu. *On the Detection of Markov Decision Processes*, 2021. [https://arxiv.org/abs/2112.12338].
