@@ -27,7 +27,7 @@
 
 == Conferences
 . *R. Yan*, G. Santos, G. Norman, D. Parker, M. Kwiatkowska. *HSVI-based Online Minimax Strategies for Partially Observable Stochastic Games with Neural Perception Mechanisms*. In 6th Annual Learning for Dynamics & Control Conference (L4DC), 242, pp. 80-91, Oxford, UK, Jul. 2024. [https://proceedings.mlr.press/v242/yan24a/yan24a.pdf].
-. J. Cheng, *R. Yan*, Maojiao Ye. *Attack-Defense Differential Games for 3D Defenders and 2D or 3D Attackers*. In 50th Annual Conference of the IEEE Industrial Electronics Society (IECON), Chicago, USA, 2024. (To appear)
+. J. Cheng, *R. Yan*, M. Ye. *Attack-Defense Differential Games for 3D Defenders and 2D or 3D Attackers*. In 50th Annual Conference of the IEEE Industrial Electronics Society (IECON), Chicago, USA, 2024. (To appear)
 . X. Duan, N. Baharisangari, *R. Yan*, Z. Xu, M. Ornik. *On a Notion of Resilience for Markov Decision Processes with Reachability Objectives*. In 22nd World Congress of the International Federation of Automatic Control (IFAC), 56(2), pp. 11261-11266, Yokohama, Japan, Jul., 2023. [https://doi.org/10.1016/j.ifacol.2023.10.318].
 . H. Lai, *R. Yan*, W. Zhang, Z. Shi, Y. Zhong. *Reach-Avoid Differential Games via Finite-Time Heading Tracking*. In IEEE Conference on Decision and Control (CDC), pp. 1656-1662, Austin, TX, USA, Dec. 2021. [https://doi.org/10.1109/CDC45484.2021.9683266].
 . R. Deng, *R. Yan*, W. Zhang, Z. Shi, Y. Zhong. *Receding Horizon Defense Strategy for Reach-Avoid Games with Uncertainties via Pairwise Outcomes*. In 40th Chinese Control Conference (CCC), pp. 5401-5406, Shanghai, China, Oct. 2021. [https://doi.org/10.23919/CCC52363.2021.9550127].
