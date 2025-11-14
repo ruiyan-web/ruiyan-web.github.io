@@ -17,6 +17,7 @@ Welcome to my personal website. I am a Professor in the [https://iai.buaa.edu.cn
 Department of Mechanical Engineering at University of California, Santa Barbara from Feb. 2019 to Feb. 2020, supervised by [http://motion.me.ucsb.edu Prof. Francesco Bullo]. My current research focuses on differential games, neuro-symbolic stochastic games and multi-agent reinforcement learning. The applications include neural-symbolic systems, and multi-uav/robot cooperation and competition.
 
 == Updates
+- 2025 Nov.: Our paper "[https://arxiv.org/pdf/2403.06202 Pursuit Winning Strategies for Reach-Avoid Games with Polygonal Obstacles]" has been accepted for publication in IEEE Transactions on Automatic Control as a regular paper! 
 - 2024 Jul.: Our paper "[https://arxiv.org/pdf/2403.06202 Pursuit Winning Strategies for Reach-Avoid Games with Polygonal Obstacles]" has been accepted for publication in IEEE Transactions on Automatic Control as a regular paper! 
 - 2024 Jul.: Our paper "[https://doi.org/10.1016/j.ic.2024.105193 Strategy Synthesis for Zero-sum Neuro-symbolic Concurrent Stochastic Games]" has been accepted for publication in Information and Computation as a full paper!
 - 2024 Jun.: Our paper "Attack-defense differential games between 3D defenders and 2D or 3D attackers" has been accepted in IECON 2024!
